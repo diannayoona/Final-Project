@@ -77,6 +77,8 @@ body {
 #draggables {
 	min-height: 150px;
 	margin-bottom: 5%;
+	    cursor: pointer;
+
 }
 .draggable {
   margin-left: 12px;
@@ -161,6 +163,8 @@ body {
 .about-top{
 	margin-left: 3%;
 	margin-top: 2%;
+	    cursor: pointer;
+
 
 }
 
@@ -209,17 +213,26 @@ hr {
 	  padding-left: 2%;
 	  margin-right: 10px;
 	  padding-right: 2%;
+	      cursor: pointer;
+
 	}
 
 .btn:hover {
   	border: 1.5px solid pink;
   		color: pink;
+  		    cursor: pointer;
+
 
 
 }
 
 .img {
 	max-height: 700px;
+}
+
+#about #top {
+	    cursor: pointer;
+
 }
 
 

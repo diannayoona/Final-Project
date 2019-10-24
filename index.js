@@ -32,3 +32,4 @@
 	$( "#draggables" ).append('<img src="images/trash1.png" class="draggable ui-widget-content trash remove"><img src="images/trash2.png" class="draggable ui-widget-content trash remove"><img src="images/recycle1.png" class="draggable ui-widget-content recycle remove"><img src="images/recycle2.png" class="draggable ui-widget-content recycle remove"><img src="images/compost1.png" class="draggable ui-widget-content compost remove"><img src="images/compost2.png" class="draggable ui-widget-content compost remove">'
 		);
 }
+
